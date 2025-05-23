@@ -16,7 +16,7 @@ End-to-end sales forecasting pipeline with comprehensive EDA, anomaly detection,
 
 ## 📊 Dataset
 Walmart historical sales data (2010-2012):
-- **421,570 sales records** across 45 stores and multiple departments
+- **400,000+ sales records** across 45 stores and multiple departments
 - Store metadata, economic indicators (CPI, unemployment, fuel prices)
 - Holiday and seasonal information
 
