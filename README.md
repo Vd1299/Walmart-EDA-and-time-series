@@ -27,7 +27,6 @@ Walmart historical sales data (2010-2012):
 
 ### Feature Selection Methods
 - Univariate statistical testing
-- Recursive Feature Elimination (RFE)
 - Mutual Information scoring
 - XGboost importance ranking
 
